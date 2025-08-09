@@ -1,0 +1,1 @@
+Bu oyun bir boğanın ekranda göründüğü zaman mouse'unuzun sol tıkı aracılığıyla yakalamaya çalışmanız ve yakaladığınız zaman bir ses dosyası çalıştırılmasından oluşmaktadır. Varsayılan geri sayım süresi 15 saniyedir. Boğaya her tıkladığınızda skor +1 artmaktadır.
